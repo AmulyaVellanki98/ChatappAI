@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+
+# environment files
+.env
+backend/.env
+
+# build artifacts (optional but recommended)
+dist
